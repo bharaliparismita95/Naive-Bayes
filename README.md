@@ -1,2 +1,2 @@
 # Naive-Bayes
- Implementation of Naive Bayes classifier from scratch in python.
+ Implementation of Naive Bayes classifier from scratch written in python.
